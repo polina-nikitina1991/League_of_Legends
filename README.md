@@ -126,7 +126,7 @@ lol_etl/
 ## 🚀 Запуск проекта
 
 ```bash
-python main.py --players 5 --matches 10 --save-csv yes --save-db yes
+python main.py --players 60 --matches 40 --save-csv yes --save-db yes
 ```
 
 Параметры:
