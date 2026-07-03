@@ -27,7 +27,6 @@ EXTRACT → TRANSFORM → LOAD → MART (SQL views) → DASHBOARD
 
 ## 📂 Структура репозитория
 
-Рекомендуемая структура:
 
 ```text
 lol_etl/
@@ -48,6 +47,11 @@ lol_etl/
 │
 ├── data/                   # (опционально) локальные данные
 ├── README.md
+│
+├── dashboard/                   # (опционально) локальные данные
+├── View.sql
+├── ссылка.doc
+
 ```
 
 ---
