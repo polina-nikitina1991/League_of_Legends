@@ -179,6 +179,8 @@ python main.py --players 5 --matches 10 --save-csv yes --save-db yes
 
 Данные будут использованы в DataLens для построения дашборда:
 
+https://datalens.yandex/h3o7i2hf74pc0 ссылка на дашборд (в разработке)
+
 * топ чемпионов по винрейту
 * распределение метрик
 * анализ ролей
